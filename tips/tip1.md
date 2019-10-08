@@ -7,3 +7,7 @@ By default in jmeter there's no undo or redo options available. But lucky for us
 3. Set the value to 25. By default it's 0
 
 **Important:** You can set any natural numbers like 1,2,3,4...100 etc. But setting high number can slow down the application cause it consumes more memory. Just above the line `undo.history.size` you can see that 25 is recommended by JMeter.
+
+Like, below picture you'll find a shortcut for undo or redo. Also in if you go to Edit, you'll find undo/redo
+
+![](img/undo-redo.png)
